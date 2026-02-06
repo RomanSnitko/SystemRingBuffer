@@ -1,0 +1,4 @@
+# ninja log v5
+2	172	1770375294966684199	CMakeFiles/RingBuffer.dir/src/main.cpp.o	eba98022f840f629
+15	73	1770375485870423538	RingBuffer	1b690ca9eed65917
+1	15	1770375485811238966	CMakeFiles/RingBuffer.dir/src/RingBuffer.cpp.o	b0c8394f327fe19a

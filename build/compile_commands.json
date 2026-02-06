@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/roman/RingBuffer/build",
+  "command": "/usr/bin/g++ -g -std=gnu++20 -o CMakeFiles/RingBuffer.dir/src/main.cpp.o -c /home/roman/RingBuffer/src/main.cpp",
+  "file": "/home/roman/RingBuffer/src/main.cpp",
+  "output": "CMakeFiles/RingBuffer.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/roman/RingBuffer/build",
+  "command": "/usr/bin/g++ -g -std=gnu++20 -o CMakeFiles/RingBuffer.dir/src/RingBuffer.cpp.o -c /home/roman/RingBuffer/src/RingBuffer.cpp",
+  "file": "/home/roman/RingBuffer/src/RingBuffer.cpp",
+  "output": "CMakeFiles/RingBuffer.dir/src/RingBuffer.cpp.o"
+}
+]
