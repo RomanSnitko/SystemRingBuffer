@@ -1,3 +1,0 @@
-/home/roman/RingBuffer/build/CMakeFiles/RingBuffer.dir
-/home/roman/RingBuffer/build/CMakeFiles/edit_cache.dir
-/home/roman/RingBuffer/build/CMakeFiles/rebuild_cache.dir
