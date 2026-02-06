@@ -1,0 +1,9 @@
+# Бинарные файлы
+*.o
+*.out
+app
+
+# Папки IDE
+.vscode/
+.idea/
+build/
